@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **arielstark1/arielstark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +59177414821
 - 😄 Pronouns: ariel stark , ariel marvel , teacher programming, good student 
 - ⚡ Fun fact: i like dance and robotic , my idea is make a robot dancer for fun and make a company from these idea 
--->
