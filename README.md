@@ -9,3 +9,11 @@
 - 😄 Pronouns: ariel stark , ariel marvel , teacher programming, good student 
 - ⚡ Fun fact: i like dance and robotic , my idea is make a robot dancer for fun and make a company from these idea 
 
+programing level  : 
+Javascript:50/100
+Python:100/100
+React: 80/100
+Visual basic:100/100
+C++:100/100
+flask_sql:80/100
+
